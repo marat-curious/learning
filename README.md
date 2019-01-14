@@ -17,6 +17,10 @@
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
+#### Язык программирования JavaScript
+
+* [Курс лекций по JavaScript и Node.js в КПИ](https://habr.com/post/434686/)
+
 #### QA
 
 * [Учебные материалы EPAM](https://careers.epam.by/training/books)
