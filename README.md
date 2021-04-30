@@ -26,6 +26,16 @@
 * [Учебные материалы EPAM](https://careers.epam.by/training/books)
 * [uTest](https://www.utest.com/)
 
+#### Competitive Programming
+
+* [Competitive Programming, Algorithm and Data Structure resources](https://github.com/lnishan/awesome-competitive-programming)
+* [Youtube: SecondThread](https://www.youtube.com/c/SecondThread/videos)
+* [Youtube: Cararra](https://www.youtube.com/c/Cararra/videos)
+* [Youtube: Errichto](https://www.youtube.com/c/Errichto/videos)
+* [Youtube: William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q/videos)
+* [Youtube: code Explainer](https://www.youtube.com/channel/UCU4WrdDLKNSnV0jiiUbKong/videos)
+* [USACO](http://usaco.org/index.php?page=contests)
+
 #### Скринкасты
 
 * [DevFreeCasts](https://devfreecasts.org/)
